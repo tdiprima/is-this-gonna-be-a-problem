@@ -65,6 +65,11 @@ No identities required. No payload inspection. Just behavior.
 3. Score new events by how unusual they are
 4. Surface the ones likely to cause trouble
 
+Models explored:
+
+* DBSCAN
+
+
 ## How this maps to real systems
 
 Swap "orders" for:
@@ -93,7 +98,5 @@ This is a **learning-focused anomaly detection lab**.
 ## Disclaimer
 
 All data is synthetic or anonymized. No real customers, no real transactions.
-
-Built for intuition, transferability, and operational sanity.
 
 <br>
