@@ -1,4 +1,4 @@
-# Is This Order Gonna Be a Problem?
+# 🍔 Is This Order Gonna Be a Problem?
 
 **AKA "Bob's Burgers ML Project"**
 
