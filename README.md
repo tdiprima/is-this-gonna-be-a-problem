@@ -1,4 +1,6 @@
-# Bob's Burgers ML Project
+# Is This Order Gonna Be a Problem?
+
+**AKA "Bob's Burgers ML Project"**
 
 Learning what "normal orders" look like — and flagging the ones that make Bob sigh.
 
