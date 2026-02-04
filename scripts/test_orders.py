@@ -59,7 +59,7 @@ def test_custom_order():
     for i, test in enumerate(test_cases, 1):
         print(f"\n{'='*70}")
         print(f"TEST CASE {i}: {test['name']}")
-        print(f"{'='*70}")
+        print("=" * 70)
 
         order = test["order"]
 
